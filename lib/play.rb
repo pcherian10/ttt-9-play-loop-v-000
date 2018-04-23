@@ -37,7 +37,8 @@ end
 
 def play(board)
   
-  while (board)
+  board.each do |x|
+    if(board[x])
   
   
   
