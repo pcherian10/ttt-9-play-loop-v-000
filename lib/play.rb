@@ -37,7 +37,7 @@ end
 
 def play(board)
   
-  
+  while (board)
   
   
   
